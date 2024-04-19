@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Jean1000levrai
-- 👀 I’m interested in coding bro
-- 🌱 I’m currently learning csahrp
-- 💞️ I’m looking to collaborate on nothin
-- 📫 How to reach me u cant lmao
+- 👀 I’m interested in creating games
+- 🌱 I’m currently learning csharp C# and unity
+- 📫 How to reach me : jean2salomon@hotmail.com
 - 😄 Pronouns: he
 - ⚡ Fun fact: do python n unity stuff
 
