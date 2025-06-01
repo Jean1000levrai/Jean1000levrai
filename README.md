@@ -3,7 +3,7 @@
  - 🖥 software dev
  - 💼 just a normal high school student(graduate soon T-T)
  - open source
- - ![Arch Linux](https://img.shields.io/badge/OS-Arch%20Linux-blue?logo=arch-linux&logoColor=white) I use Arch btw XD
+ - ![Arch Linux](https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg) I use Arch btw XD
 
 ## 
 
