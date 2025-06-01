@@ -3,7 +3,8 @@
  - 🖥 software dev
  - 💼 just a normal high school student(graduate soon T-T)
  - open source
- - ![Arch Linux](https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg) I use Arch btw XD
+ - [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/arch.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/)
+I use Arch btw XD
 
 ## 
 
