@@ -8,7 +8,7 @@ I use Arch btw XD
 
 ## ⬆ ON Going Projects
 
- - [Habit Tracker](https://github.com/Jean1000levrai/Habit-Tracker)
+ - [Wordle](https://github.com/Jean1000levrai/Wordle)
 
 
 ## Skills
