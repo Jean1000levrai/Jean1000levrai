@@ -27,4 +27,4 @@ I use Arch btw XD
 
 ## Socials
 
-📫 Reach me at: [jean2salomon@hotmail.com](mailto:jean2salomon@hotmail.com)
+📫 Reach me at: [jean2salomon@icloud.com](mailto:jean2salomon@icloud.com)
