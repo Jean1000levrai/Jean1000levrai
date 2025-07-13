@@ -13,7 +13,7 @@ I use Arch btw XD
 
 ## Skills
 
-**Languages:** Python, JavaScript, C#, Bash  
+**Languages:** Python, JavaScript, Bash  
 **Tools:** Git, Linux
 
 ## 📌 Featured Projects
