@@ -19,7 +19,7 @@ I use Arch btw XD
 ## 📌 Featured Projects
 
 - [Habit-Tracker](https://github.com/Jean1000levrai/Habit-Tracker): A tool to track and manage habits.
-- [choixpeau](https://github.com/Jean1000levrai/choixpeau): Custom Waybar configuration for Hyprland and Sway.
+- [choixpeau](https://github.com/Jean1000levrai/choixpeau): The magical skin choice from Harry Potter.
 
 ## Stats
 
