@@ -19,7 +19,7 @@ I use Arch btw XD
 ## 📌 Featured Projects
 
 - [Habit-Tracker](https://github.com/Jean1000levrai/Habit-Tracker): A tool to track and manage habits.
-- [config-hyprland](https://github.com/Jean1000levrai/config-hyprland): Custom Waybar configuration for Hyprland and Sway.
+- [choixpeau](https://github.com/Jean1000levrai/choixpeau): Custom Waybar configuration for Hyprland and Sway.
 
 ## Stats
 
