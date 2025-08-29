@@ -9,13 +9,14 @@ I use Arch btw XD
 
 ## ⬆ ON Going Projects
 
- - [Wordle](https://github.com/Jean1000levrai/Wordle)
+ - No projects on going T-T (time's lacking)
+ - Currently learning C and OCaml in college
 
 
 ## Skills
 
-**Languages:** Python, JavaScript, React, Bash  
-**Tools:** Git, Linux
+**Languages:** Python, JavaScript, React 
+**Tools:** Git, Linux, Bash
 
 ## 📌 Featured Projects
 
@@ -28,4 +29,4 @@ I use Arch btw XD
 
 ## Socials
 
-📫 Reach me at: [jean2salomon@icloud.com](mailto:jean2salomon@icloud.com)
+📫 Reach me at: [jean2salomon@icloud.com](mailto:jean2salomon@icloud.com) or [jean2salomon@hotmail.com](mailto:jean2salomon@hotmail.com)
