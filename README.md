@@ -15,8 +15,8 @@ I use Arch btw XD
 
 ## Skills
 
-**Languages:** Python, JavaScript, React 
-**Tools:** Git, Linux, Bash
+- **Languages:** Python, JavaScript, React 
+- **Tools:** Git, Linux, Bash
 
 ## 📌 Featured Projects
 
