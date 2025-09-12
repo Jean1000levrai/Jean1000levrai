@@ -1,8 +1,6 @@
-# 👋 Hi, I'm Jean
+# 👋 Hi, I'm Jean [![Licence](https://hackatime-badge.hackclub.com/U0811ME6L0J/HabitTracker)](./LICENSE)
 
  - 🖥 software dev, Hackclub member --> http://neighborhood.hackclub.com/
- - Over 100hrs in hakatime 
-[![Licence](https://hackatime-badge.hackclub.com/U0811ME6L0J/HabitTracker)](./LICENSE)
  - 💼 First year college student
  - 💜 open source
  - [<img src="https://raw.githubusercontent.com/Jean1000levrai/Jean1000levrai/main/assets/arch.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/)
