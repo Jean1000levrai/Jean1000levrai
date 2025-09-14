@@ -8,8 +8,9 @@ I use Arch btw XD
 
 ## 🛠️ Skills
 
-- **Languages:** Python, JavaScript, React 
+- **Languages:** Python, JavaScript, React
 - **Tools:** Git, Linux, Bash
+- **Learning:** C, OCaml
 
 ## 🌐 Socials
 
