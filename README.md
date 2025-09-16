@@ -10,7 +10,7 @@ I use Arch btw XD
 
 - **Languages:** Python, JavaScript, React
 - **Tools:** Git, Linux, Bash
-- **Learning:** C, OCaml
+- **Learning:** C
 
 ## 🌐 Socials
 
