@@ -14,6 +14,5 @@ I use Arch btw XD
 - **Tools:** Git, Linux, Bash
 - **Learning:** C
 
-## 🌐 Socials
-
-📫 Reach me at: [jean2salomon@icloud.com](mailto:jean2salomon@icloud.com) or [jean2salomon@hotmail.com](mailto:jean2salomon@hotmail.com)
+## 🌐 Connect with me
+- 📧 [Email](mailto:jean2salomon@icloud.com)
