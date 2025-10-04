@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Jean [![Licence](https://hackatime-badge.hackclub.com/U0811ME6L0J/HabitTracker)](./LICENSE)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jean1000levrai&label=Profile%20views&color=0e75b6&style=flat" alt="jean1000" /> </p>
 
  - 🖥 software dev, Hackclub member --> http://neighborhood.hackclub.com/
  - 💼 First year college student
