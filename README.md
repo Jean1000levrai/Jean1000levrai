@@ -10,9 +10,9 @@ I use Arch btw XD
 
 ## 🛠️ Skills
 
-- **Languages:** Python, JavaScript, React
+- **Languages:** Python, JavaScript, C
+- **Frameworks/Libraries** Tkinter, React, SDL (currently learning it)
 - **Tools:** Git, Linux, Bash
-- **Learning:** C
 
 ## 🌐 Connect with me
 - 📧 [Email](mailto:jean2salomon@icloud.com)
