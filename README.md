@@ -11,7 +11,7 @@ I use Arch btw XD
 ## 🛠️ Skills
 
 - **Languages:** Python, JavaScript, C
-- **Frameworks/Libraries** Tkinter, React, SDL (currently learning it)
+- **Frameworks/Libraries:** Tkinter, React, SDL (currently learning it)
 - **Tools:** Git, Linux, Bash
 
 ## 🌐 Connect with me
