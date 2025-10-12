@@ -14,6 +14,12 @@ I use Arch btw XD
 - **Frameworks/Libraries:** Tkinter, React, SDL (currently learning it)
 - **Tools:** Git, Linux, Bash
 
+## 💻 Currently working on
+
+- [EasyPyEngine](https://github.com/Jean1000levrai/EasyPyEngine)
+- [My Room](https://github.com/Jean1000levrai/My-Room)
+- School Work
+
   
 ## 🌐 Connect with me
 
