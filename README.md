@@ -17,7 +17,7 @@ I use Arch btw XD
 ## 💻 Currently working on
 
 - [EasyPyEngine](https://github.com/Jean1000levrai/EasyPyEngine)
-- [My Room](https://github.com/Jean1000levrai/My-Room)
+- [Rubiks Chess](https://github.com/Jean1000levrai/Rubiks-Chess)
 - School Work
 
   
