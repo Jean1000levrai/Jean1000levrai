@@ -10,8 +10,8 @@ I use Arch btw XD
 
 ## 🛠️ Skills
 
-- **Languages:** Python, JavaScript, C
-- **Frameworks/Libraries:** Tkinter, React, SDL
+- **Languages:** Python, C
+- **Frameworks/Libraries:** Tkinter, SDL
 - **Tools:** Git, Linux, Bash
 
 ## 💻 Currently working on
