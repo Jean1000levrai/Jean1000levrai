@@ -5,7 +5,7 @@
  - 🖥 Hackclub Member --> [HackClub](http://neighborhood.hackclub.com/)
  - 💼 First Year College Student
  - 💜 Open Source
- - I use PopOs [<img src="https://raw.githubusercontent.com/Jean1000levrai/Jean1000levrai/main/assets/arch.svg" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/)
+ - I use PopOs [<img src="https://raw.githubusercontent.com/Jean1000levrai/Jean1000levrai/main/assets/popos.png" height="30em" align="center" alt="Arch Linux Logo" title="Arch Linux Logo"/>](https://archlinux.org/)
 
 ## 🛠️ Skills
 
