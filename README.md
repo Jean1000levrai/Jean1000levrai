@@ -15,7 +15,6 @@
 
 ## 💻 Currently working on
 
-- [Rubiks Chess](https://github.com/Jean1000levrai/Rubiks-Chess)
 - School Work
 
   
